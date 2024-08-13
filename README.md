@@ -14,3 +14,9 @@
 - **Axios**: HTTP client for making API requests
 - **EJS**: Templating engine for rendering HTML
 - **Body-Parser**: Middleware to parse incoming request bodies
+
+## Import NPM packages
+
+-import express from "express";
+-import bodyParser from "body-parser";
+-import axios from "axios";

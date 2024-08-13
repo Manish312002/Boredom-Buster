@@ -15,8 +15,7 @@
 - **EJS**: Templating engine for rendering HTML
 - **Body-Parser**: Middleware to parse incoming request bodies
 
-## Import NPM packages
+## Install NPM packages
 
-- import express from "express" 
-- import bodyParser from "body-parser";
-- import axios from "axios";
+- npm i express ejs body-parser axios
+
